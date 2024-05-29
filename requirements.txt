@@ -1,0 +1,17 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Deep Learning
+tensorflow
+keras
+
+# Miscellaneous
+tqdm
